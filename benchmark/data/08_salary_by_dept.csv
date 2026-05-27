@@ -1,0 +1,1069 @@
+department,salary_k
+Engineering,168.2
+Engineering,110.8
+Engineering,176.1
+Engineering,204.4
+Engineering,214.0
+Engineering,178.9
+Engineering,99.5
+Engineering,159.5
+Engineering,233.3
+Engineering,119.0
+Engineering,149.8
+Engineering,205.7
+Engineering,175.5
+Engineering,246.2
+Engineering,124.2
+Engineering,114.4
+Engineering,198.5
+Engineering,106.6
+Engineering,144.5
+Engineering,149.5
+Engineering,191.4
+Engineering,175.3
+Engineering,169.4
+Engineering,136.7
+Engineering,198.2
+Engineering,305.0
+Engineering,178.3
+Engineering,155.8
+Engineering,102.7
+Engineering,127.8
+Engineering,143.9
+Engineering,131.7
+Engineering,151.4
+Engineering,219.6
+Engineering,199.4
+Engineering,146.0
+Engineering,106.1
+Engineering,202.8
+Engineering,150.1
+Engineering,86.4
+Engineering,179.1
+Engineering,191.0
+Engineering,59.8
+Engineering,120.7
+Engineering,147.8
+Engineering,179.9
+Engineering,132.4
+Engineering,120.4
+Engineering,179.6
+Engineering,134.2
+Engineering,172.6
+Engineering,109.8
+Engineering,100.6
+Engineering,180.7
+Engineering,161.6
+Engineering,187.1
+Engineering,131.8
+Engineering,121.8
+Engineering,203.7
+Engineering,94.1
+Engineering,199.6
+Engineering,202.2
+Engineering,184.7
+Engineering,125.9
+Engineering,121.0
+Engineering,144.0
+Engineering,102.8
+Engineering,115.5
+Engineering,176.5
+Engineering,176.7
+Engineering,112.1
+Engineering,177.7
+Engineering,169.3
+Engineering,209.4
+Engineering,173.6
+Engineering,192.2
+Engineering,170.1
+Engineering,189.2
+Engineering,103.1
+Engineering,147.4
+Engineering,150.5
+Engineering,142.7
+Engineering,168.9
+Engineering,176.1
+Engineering,166.9
+Engineering,145.3
+Engineering,124.0
+Engineering,193.7
+Engineering,165.3
+Engineering,113.3
+Engineering,144.6
+Engineering,85.8
+Engineering,153.3
+Engineering,144.5
+Engineering,130.2
+Engineering,212.2
+Engineering,108.1
+Engineering,178.8
+Engineering,235.1
+Engineering,192.9
+Engineering,150.8
+Engineering,108.9
+Engineering,100.2
+Engineering,136.4
+Engineering,125.9
+Engineering,124.7
+Engineering,139.6
+Engineering,148.1
+Engineering,170.4
+Engineering,105.0
+Engineering,126.1
+Engineering,145.9
+Engineering,144.6
+Engineering,221.8
+Engineering,160.8
+Engineering,90.7
+Engineering,167.9
+Engineering,172.7
+Engineering,147.2
+Engineering,105.9
+Engineering,218.8
+Engineering,111.3
+Engineering,177.1
+Engineering,159.6
+Engineering,174.8
+Engineering,216.9
+Engineering,173.3
+Engineering,130.8
+Engineering,194.0
+Engineering,128.0
+Engineering,158.2
+Engineering,102.9
+Engineering,112.7
+Engineering,154.0
+Engineering,166.0
+Engineering,87.3
+Engineering,170.9
+Engineering,120.9
+Engineering,200.6
+Engineering,138.6
+Engineering,109.3
+Engineering,154.9
+Engineering,117.2
+Engineering,200.2
+Engineering,152.0
+Engineering,146.2
+Engineering,174.5
+Engineering,113.8
+Engineering,103.0
+Engineering,167.5
+Engineering,110.2
+Engineering,110.2
+Engineering,183.8
+Engineering,172.0
+Engineering,104.4
+Engineering,128.5
+Engineering,117.7
+Engineering,219.5
+Engineering,186.4
+Engineering,136.0
+Engineering,173.9
+Engineering,100.5
+Engineering,126.4
+Engineering,156.0
+Engineering,169.2
+Engineering,148.3
+Engineering,161.4
+Engineering,155.0
+Engineering,145.8
+Engineering,140.7
+Engineering,135.8
+Engineering,160.8
+Engineering,167.6
+Engineering,159.5
+Engineering,107.2
+Engineering,114.0
+Engineering,167.2
+Engineering,207.9
+Engineering,157.8
+Engineering,136.4
+Engineering,160.5
+Engineering,108.8
+Engineering,201.7
+Engineering,159.1
+Engineering,126.6
+Engineering,145.7
+Engineering,132.0
+Engineering,201.8
+Engineering,144.3
+Engineering,157.9
+Engineering,173.8
+Engineering,123.9
+Engineering,159.4
+Engineering,162.4
+Engineering,92.9
+Engineering,161.6
+Engineering,150.3
+Engineering,156.9
+Engineering,153.4
+Engineering,161.8
+Engineering,202.8
+Engineering,107.2
+Engineering,139.0
+Engineering,177.3
+Engineering,170.3
+Engineering,169.5
+Engineering,256.6
+Engineering,175.3
+Engineering,195.0
+Engineering,140.3
+Engineering,114.3
+Engineering,140.1
+Engineering,179.1
+Engineering,167.5
+Engineering,167.3
+Engineering,143.9
+Engineering,137.8
+Engineering,145.2
+Engineering,179.5
+Engineering,183.9
+Data Science,113.8
+Data Science,173.9
+Data Science,125.9
+Data Science,163.9
+Data Science,141.5
+Data Science,201.2
+Data Science,133.8
+Data Science,154.1
+Data Science,168.6
+Data Science,118.3
+Data Science,145.5
+Data Science,138.9
+Data Science,130.5
+Data Science,133.0
+Data Science,185.8
+Data Science,127.6
+Data Science,167.3
+Data Science,158.7
+Data Science,100.5
+Data Science,165.7
+Data Science,99.9
+Data Science,169.4
+Data Science,130.8
+Data Science,148.3
+Data Science,104.0
+Data Science,152.2
+Data Science,179.5
+Data Science,120.6
+Data Science,127.4
+Data Science,163.5
+Data Science,164.3
+Data Science,65.2
+Data Science,216.5
+Data Science,166.0
+Data Science,171.7
+Data Science,143.1
+Data Science,84.9
+Data Science,170.9
+Data Science,128.8
+Data Science,166.5
+Data Science,140.6
+Data Science,156.1
+Data Science,121.7
+Data Science,177.4
+Data Science,107.6
+Data Science,224.3
+Data Science,224.1
+Data Science,203.5
+Data Science,191.4
+Data Science,145.1
+Data Science,187.7
+Data Science,144.7
+Data Science,95.2
+Data Science,199.1
+Data Science,186.4
+Data Science,146.9
+Data Science,106.3
+Data Science,128.1
+Data Science,86.1
+Data Science,180.1
+Data Science,93.5
+Data Science,157.8
+Data Science,119.3
+Data Science,99.5
+Data Science,156.1
+Data Science,136.7
+Data Science,176.5
+Data Science,104.9
+Data Science,122.3
+Data Science,66.8
+Data Science,73.7
+Data Science,209.1
+Data Science,218.8
+Data Science,151.2
+Data Science,120.0
+Data Science,137.9
+Data Science,177.7
+Data Science,130.5
+Data Science,156.1
+Data Science,147.6
+Data Science,128.7
+Data Science,130.1
+Data Science,158.0
+Data Science,114.8
+Data Science,163.4
+Data Science,132.0
+Data Science,152.3
+Data Science,195.1
+Data Science,142.3
+Data Science,179.3
+Data Science,87.1
+Data Science,132.0
+Data Science,148.9
+Data Science,213.4
+Data Science,81.4
+Data Science,144.7
+Data Science,197.5
+Data Science,121.3
+Data Science,140.8
+Data Science,159.3
+Data Science,154.3
+Data Science,201.2
+Data Science,163.2
+Data Science,193.1
+Data Science,135.8
+Data Science,122.8
+Data Science,140.3
+Data Science,108.6
+Data Science,164.4
+Data Science,134.9
+Data Science,125.2
+Data Science,165.0
+Data Science,109.1
+Data Science,174.2
+Data Science,131.7
+Data Science,187.4
+Data Science,134.6
+Data Science,169.5
+Data Science,154.1
+Data Science,173.3
+Data Science,151.7
+Data Science,91.4
+Data Science,182.3
+Data Science,145.0
+Data Science,174.8
+Data Science,171.5
+Data Science,121.7
+Data Science,116.9
+Data Science,170.3
+Data Science,137.7
+Data Science,179.8
+Data Science,141.9
+Data Science,182.8
+Data Science,162.4
+Data Science,157.8
+Data Science,135.3
+Data Science,155.9
+Data Science,188.6
+Data Science,146.2
+Data Science,166.1
+Data Science,149.6
+Data Science,152.2
+Data Science,206.6
+Data Science,188.9
+Data Science,150.7
+Data Science,155.3
+Data Science,124.1
+Data Science,142.1
+Data Science,158.5
+Data Science,176.9
+Data Science,173.5
+Data Science,110.3
+Data Science,181.2
+Data Science,145.0
+Data Science,114.4
+Data Science,193.4
+Data Science,197.8
+Data Science,157.0
+Data Science,172.1
+Data Science,174.1
+Data Science,195.5
+Data Science,172.8
+Data Science,102.9
+Data Science,216.3
+Data Science,184.2
+Data Science,130.7
+Data Science,113.0
+Data Science,165.2
+Data Science,138.5
+Data Science,159.2
+Data Science,173.3
+Data Science,128.7
+Data Science,110.1
+Data Science,161.1
+Data Science,129.9
+Data Science,153.0
+Data Science,102.3
+Data Science,139.4
+Data Science,172.3
+Data Science,168.6
+Product,112.8
+Product,100.6
+Product,138.5
+Product,156.0
+Product,151.0
+Product,121.6
+Product,147.5
+Product,186.1
+Product,144.6
+Product,85.7
+Product,144.5
+Product,203.4
+Product,96.8
+Product,139.0
+Product,130.8
+Product,141.1
+Product,144.2
+Product,174.5
+Product,140.7
+Product,178.9
+Product,134.2
+Product,126.8
+Product,116.6
+Product,79.9
+Product,146.8
+Product,203.7
+Product,152.7
+Product,160.0
+Product,124.8
+Product,130.2
+Product,169.5
+Product,202.3
+Product,185.6
+Product,163.8
+Product,139.1
+Product,144.7
+Product,113.9
+Product,91.7
+Product,101.9
+Product,139.6
+Product,128.7
+Product,91.0
+Product,136.8
+Product,127.8
+Product,100.5
+Product,126.2
+Product,127.7
+Product,118.3
+Product,167.7
+Product,77.1
+Product,74.5
+Product,138.1
+Product,141.1
+Product,150.9
+Product,120.8
+Product,108.6
+Product,137.8
+Product,123.9
+Product,187.6
+Product,127.6
+Product,136.3
+Product,217.2
+Product,131.8
+Product,155.8
+Product,158.7
+Product,161.4
+Product,147.3
+Product,144.2
+Product,141.2
+Product,119.6
+Product,148.4
+Product,202.9
+Product,176.7
+Product,147.7
+Product,165.4
+Product,110.2
+Product,129.7
+Product,168.3
+Product,185.6
+Product,113.3
+Product,122.5
+Product,207.8
+Product,141.1
+Product,196.3
+Product,144.6
+Product,145.9
+Product,128.2
+Product,168.2
+Product,181.4
+Product,104.9
+Product,126.7
+Product,167.3
+Product,133.9
+Product,122.2
+Product,170.3
+Design,148.9
+Design,105.4
+Design,123.9
+Design,84.2
+Design,92.9
+Design,121.5
+Design,118.9
+Design,90.9
+Design,98.0
+Design,88.2
+Design,130.7
+Design,62.9
+Design,89.7
+Design,65.8
+Design,129.7
+Design,67.5
+Design,118.9
+Design,163.9
+Design,164.9
+Design,67.4
+Design,126.4
+Design,90.3
+Design,84.6
+Design,114.8
+Design,152.4
+Design,134.8
+Design,98.0
+Design,137.7
+Design,55.2
+Design,96.9
+Design,94.9
+Design,120.2
+Design,112.3
+Design,114.0
+Design,113.1
+Design,118.6
+Design,133.1
+Design,122.2
+Design,110.0
+Design,129.2
+Design,141.1
+Design,102.4
+Design,116.3
+Design,150.5
+Design,87.1
+Design,168.5
+Design,80.5
+Design,108.3
+Design,91.4
+Design,179.3
+Design,103.9
+Design,104.0
+Design,107.6
+Design,120.7
+Design,108.8
+Design,114.3
+Design,40.0
+Design,119.6
+Design,118.5
+Design,147.1
+Design,154.7
+Design,112.7
+Design,140.9
+Design,87.2
+Design,139.5
+Design,102.0
+Design,84.8
+Design,112.8
+Design,157.2
+Design,123.1
+Marketing,142.9
+Marketing,84.5
+Marketing,131.2
+Marketing,87.0
+Marketing,109.9
+Marketing,109.6
+Marketing,121.2
+Marketing,110.5
+Marketing,84.8
+Marketing,126.9
+Marketing,149.0
+Marketing,88.8
+Marketing,56.3
+Marketing,117.0
+Marketing,95.4
+Marketing,100.6
+Marketing,118.5
+Marketing,92.1
+Marketing,97.0
+Marketing,101.4
+Marketing,142.2
+Marketing,104.8
+Marketing,71.9
+Marketing,72.9
+Marketing,107.6
+Marketing,74.6
+Marketing,63.4
+Marketing,120.5
+Marketing,121.8
+Marketing,94.4
+Marketing,111.6
+Marketing,108.9
+Marketing,119.7
+Marketing,119.7
+Marketing,40.0
+Marketing,97.7
+Marketing,117.5
+Marketing,93.3
+Marketing,104.9
+Marketing,123.5
+Marketing,106.1
+Marketing,143.2
+Marketing,133.3
+Marketing,100.9
+Marketing,98.9
+Marketing,40.0
+Marketing,95.5
+Marketing,68.8
+Marketing,109.8
+Marketing,108.0
+Marketing,122.1
+Marketing,140.3
+Marketing,103.3
+Marketing,163.3
+Marketing,110.0
+Marketing,69.9
+Marketing,89.4
+Marketing,94.3
+Marketing,119.4
+Marketing,79.4
+Marketing,96.3
+Marketing,99.8
+Marketing,92.3
+Marketing,125.1
+Marketing,120.7
+Marketing,134.3
+Marketing,95.4
+Marketing,135.3
+Marketing,68.5
+Marketing,67.9
+Marketing,72.4
+Marketing,104.2
+Marketing,135.3
+Marketing,88.3
+Marketing,91.6
+Marketing,98.4
+Marketing,118.9
+Marketing,91.6
+Marketing,90.1
+Marketing,69.0
+Marketing,89.1
+Marketing,134.6
+Marketing,106.4
+Marketing,84.8
+Marketing,136.1
+Marketing,88.8
+Marketing,140.9
+Marketing,140.5
+Marketing,105.5
+Marketing,65.0
+Marketing,163.5
+Marketing,114.1
+Marketing,95.6
+Marketing,128.9
+Marketing,122.3
+Marketing,138.1
+Marketing,86.8
+Marketing,112.3
+Marketing,73.2
+Marketing,121.3
+Marketing,103.4
+Marketing,111.3
+Marketing,100.2
+Marketing,97.5
+Marketing,81.4
+Marketing,124.6
+Marketing,142.7
+Marketing,89.5
+Marketing,118.4
+Marketing,115.2
+Sales,122.4
+Sales,53.3
+Sales,63.4
+Sales,86.9
+Sales,40.0
+Sales,185.4
+Sales,138.5
+Sales,120.7
+Sales,40.0
+Sales,40.0
+Sales,121.9
+Sales,210.7
+Sales,90.6
+Sales,160.9
+Sales,100.4
+Sales,124.5
+Sales,176.7
+Sales,106.4
+Sales,90.9
+Sales,185.8
+Sales,124.1
+Sales,171.1
+Sales,91.2
+Sales,185.3
+Sales,134.3
+Sales,141.6
+Sales,127.9
+Sales,99.3
+Sales,121.9
+Sales,102.1
+Sales,165.2
+Sales,112.9
+Sales,54.7
+Sales,46.4
+Sales,44.3
+Sales,149.8
+Sales,70.2
+Sales,135.5
+Sales,128.1
+Sales,119.1
+Sales,141.7
+Sales,129.1
+Sales,40.0
+Sales,107.4
+Sales,141.1
+Sales,195.8
+Sales,197.9
+Sales,60.7
+Sales,106.3
+Sales,51.5
+Sales,190.4
+Sales,167.6
+Sales,137.8
+Sales,129.5
+Sales,184.1
+Sales,176.5
+Sales,174.1
+Sales,142.6
+Sales,106.3
+Sales,156.5
+Sales,158.7
+Sales,113.4
+Sales,106.2
+Sales,173.0
+Sales,196.9
+Sales,88.3
+Sales,110.1
+Sales,137.8
+Sales,143.9
+Sales,98.5
+Sales,206.8
+Sales,141.0
+Sales,145.9
+Sales,201.1
+Sales,101.8
+Sales,118.0
+Sales,65.6
+Sales,114.2
+Sales,55.0
+Sales,155.7
+Sales,140.9
+Sales,109.5
+Sales,117.5
+Sales,156.3
+Sales,70.9
+Sales,131.2
+Sales,153.5
+Sales,41.8
+Sales,152.8
+Sales,46.7
+Sales,116.7
+Sales,69.6
+Sales,186.4
+Sales,69.9
+Sales,47.7
+Sales,128.0
+Sales,103.4
+Sales,54.3
+Sales,145.7
+Sales,40.0
+Sales,75.4
+Sales,96.1
+Sales,158.1
+Sales,180.3
+Sales,171.6
+Sales,115.1
+Sales,40.0
+Sales,139.6
+Sales,188.2
+Sales,177.5
+Sales,142.8
+Sales,68.5
+Sales,98.4
+Sales,209.0
+Sales,58.2
+Sales,70.3
+Sales,164.4
+Sales,102.6
+Sales,68.8
+Sales,190.8
+Sales,142.7
+Sales,104.8
+Sales,70.4
+Sales,214.1
+Sales,120.9
+Sales,184.9
+Sales,162.2
+Sales,98.6
+Sales,98.9
+Sales,187.1
+Sales,187.8
+Sales,40.0
+Sales,146.7
+Sales,116.5
+Sales,75.5
+Sales,133.8
+Sales,61.3
+Sales,101.0
+Sales,86.1
+Sales,99.5
+Sales,118.8
+Sales,76.3
+Sales,192.8
+Sales,144.2
+Sales,202.8
+Sales,114.8
+Sales,97.3
+Sales,201.1
+Sales,96.0
+Sales,114.0
+Sales,154.4
+Sales,66.3
+Sales,154.0
+Sales,148.3
+Sales,179.1
+Sales,162.1
+Sales,180.5
+Sales,117.0
+Sales,83.2
+Sales,216.9
+Support,50.5
+Support,52.3
+Support,88.2
+Support,107.2
+Support,81.4
+Support,96.0
+Support,42.1
+Support,69.0
+Support,44.3
+Support,92.0
+Support,50.1
+Support,55.0
+Support,87.3
+Support,97.1
+Support,75.1
+Support,88.3
+Support,87.7
+Support,74.1
+Support,58.3
+Support,88.2
+Support,89.0
+Support,94.1
+Support,83.6
+Support,57.0
+Support,90.4
+Support,78.0
+Support,69.3
+Support,72.7
+Support,65.6
+Support,94.0
+Support,52.5
+Support,60.1
+Support,72.1
+Support,107.0
+Support,97.0
+Support,48.5
+Support,102.3
+Support,102.3
+Support,56.9
+Support,40.0
+Support,76.7
+Support,98.2
+Support,106.6
+Support,62.3
+Support,109.5
+Support,40.0
+Support,71.4
+Support,70.5
+Support,98.7
+Support,101.4
+Support,95.2
+Support,53.7
+Support,93.5
+Support,87.2
+Support,47.9
+Support,40.8
+Support,96.7
+Support,74.8
+Support,54.9
+Support,74.3
+Support,84.6
+Support,76.5
+Support,50.1
+Support,111.9
+Support,96.1
+Support,72.0
+Support,72.7
+Support,84.5
+Support,57.7
+Support,83.8
+Support,54.0
+Support,76.7
+Support,57.0
+Support,57.9
+Support,107.6
+Support,79.1
+Support,81.7
+Support,41.8
+Support,67.3
+Support,86.3
+Support,81.5
+Support,40.0
+Support,81.7
+Support,84.6
+Support,101.1
+Support,66.2
+Support,40.0
+Support,60.1
+Support,58.3
+Support,91.3
+Support,40.0
+Support,69.9
+Support,103.7
+Support,78.1
+Support,94.1
+Support,48.4
+Support,49.2
+Support,103.9
+Support,79.8
+Support,79.9
+Support,57.9
+Support,79.8
+Support,57.4
+Support,99.4
+Support,127.1
+Support,86.7
+Support,66.6
+Support,40.0
+Support,47.7
+Support,106.0
+Support,59.5
+Support,71.3
+Support,89.8
+Support,104.7
+Support,74.4
+Support,70.7
+Support,79.3
+Support,66.7
+Support,67.7
+Support,85.4
+Support,81.3
+Support,116.4
+Support,85.9
+Support,98.7
+Support,58.7
+Support,87.5
+Support,65.0
+Support,85.1
+Support,90.4
+Support,78.9
+Support,121.3
+Support,103.7
+Support,99.2
+Support,91.8
+Support,109.7
+Support,52.1
+Support,102.7
+Support,60.2
+Support,67.8
+Support,88.1
+Support,100.2
+Support,57.2
+Support,68.8
+Support,79.8
+Support,74.6
+Operations,110.8
+Operations,167.6
+Operations,101.2
+Operations,75.8
+Operations,63.5
+Operations,84.8
+Operations,71.3
+Operations,102.3
+Operations,101.9
+Operations,81.8
+Operations,135.7
+Operations,75.8
+Operations,89.4
+Operations,106.1
+Operations,111.6
+Operations,120.1
+Operations,101.4
+Operations,115.1
+Operations,77.4
+Operations,112.2
+Operations,111.9
+Operations,125.3
+Operations,55.3
+Operations,72.0
+Operations,110.1
+Operations,40.0
+Operations,102.8
+Operations,115.3
+Operations,79.3
+Operations,82.5
+Operations,68.4
+Operations,80.5
+Operations,81.2
+Operations,77.0
+Operations,75.8
+Operations,86.0
+Operations,85.8
+Operations,133.2
+Operations,83.3
+Operations,99.6
+Operations,79.3
+Operations,79.0
+Operations,54.5
+Operations,57.4
+Operations,65.4
+Operations,96.0
+Operations,115.7
+Operations,52.7
+Operations,79.9
+Operations,61.9
+Operations,86.2
+Operations,115.7
+Operations,82.2
+Operations,91.0
+Operations,124.0
+Operations,102.1
+Operations,75.3
+Operations,95.5
+Operations,73.8
+Operations,101.3
+Operations,103.3
+Operations,61.9
+Operations,95.9
+Operations,89.4
+Operations,104.0
+Operations,110.3
+Operations,102.5
+Operations,85.3
+Operations,112.5
+Operations,72.8
+Operations,62.9
+Operations,40.0
+Operations,90.5
+Operations,73.9
+Operations,100.8
+Operations,48.6
+Operations,77.8
+Operations,102.3
+Operations,69.3
+Operations,101.0
+Operations,79.7
+Operations,91.3
+Operations,105.1
+Operations,113.0
+Operations,94.0
+Operations,74.1
+Operations,81.9
+Operations,106.0

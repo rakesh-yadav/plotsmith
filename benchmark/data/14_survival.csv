@@ -1,0 +1,653 @@
+time_months,event,arm
+16.36,0,Control
+2.83,1,Control
+7.97,1,Control
+13.62,0,Control
+1.23,0,Control
+2.38,0,Control
+5.57,0,Control
+13.14,0,Control
+5.28,0,Control
+11.2,0,Control
+5.34,1,Control
+17.97,0,Control
+12.94,1,Control
+16.23,0,Control
+10.87,0,Control
+1.19,1,Control
+18.33,0,Control
+1.26,1,Control
+0.82,1,Control
+5.36,1,Control
+0.25,1,Control
+5.39,0,Control
+2.72,1,Control
+9.29,0,Control
+9.14,1,Control
+0.02,1,Control
+0.96,1,Control
+8.48,0,Control
+20.37,0,Control
+10.21,0,Control
+5.65,0,Control
+3.39,1,Control
+22.25,0,Control
+2.17,1,Control
+21.07,0,Control
+11.77,0,Control
+7.24,1,Control
+6.0,1,Control
+3.83,0,Control
+12.46,0,Control
+9.0,1,Control
+0.01,0,Control
+1.09,0,Control
+15.06,0,Control
+6.49,1,Control
+0.79,0,Control
+10.32,0,Control
+2.98,0,Control
+3.61,0,Control
+18.24,0,Control
+1.86,0,Control
+11.04,0,Control
+7.85,0,Control
+11.86,1,Control
+0.52,0,Control
+10.92,0,Control
+16.61,1,Control
+20.31,1,Control
+7.57,0,Control
+15.23,0,Control
+6.13,0,Control
+15.11,0,Control
+2.1,0,Control
+5.98,1,Control
+10.66,0,Control
+1.44,0,Control
+4.69,0,Control
+0.51,1,Control
+4.76,1,Control
+12.29,0,Control
+14.09,0,Control
+19.64,0,Control
+8.24,0,Control
+2.41,0,Control
+4.06,0,Control
+14.08,1,Control
+21.04,1,Control
+10.8,0,Control
+7.4,0,Control
+21.16,0,Control
+9.53,0,Control
+3.1,0,Control
+4.93,1,Control
+17.1,1,Control
+20.7,0,Control
+1.26,1,Control
+2.32,1,Control
+3.2,0,Control
+0.78,1,Control
+4.99,1,Control
+0.54,1,Control
+22.76,0,Control
+8.57,0,Control
+4.61,1,Control
+6.83,1,Control
+0.12,1,Control
+1.4,0,Control
+8.51,1,Control
+3.73,1,Control
+13.57,1,Control
+16.8,0,Control
+0.81,1,Control
+14.45,1,Control
+6.79,0,Control
+5.98,0,Control
+12.03,0,Control
+4.89,0,Control
+12.41,0,Control
+22.93,0,Control
+0.49,1,Control
+14.48,0,Control
+14.09,1,Control
+13.07,1,Control
+2.51,0,Control
+14.92,0,Control
+14.44,0,Control
+7.6,0,Control
+0.21,1,Control
+18.41,0,Control
+8.34,1,Control
+18.79,0,Control
+12.1,0,Control
+3.3,1,Control
+0.14,1,Control
+4.48,1,Control
+6.09,0,Control
+2.06,0,Control
+11.41,0,Control
+4.42,0,Control
+21.86,1,Control
+4.5,0,Control
+12.6,1,Control
+20.03,1,Control
+20.32,0,Control
+0.89,1,Control
+5.38,1,Control
+11.53,0,Control
+22.9,0,Control
+5.24,1,Control
+3.22,0,Control
+4.4,1,Control
+11.46,0,Control
+5.84,0,Control
+1.09,0,Control
+7.11,1,Control
+6.18,0,Control
+0.3,0,Control
+12.73,1,Control
+20.4,0,Control
+14.92,0,Control
+14.17,0,Control
+5.03,0,Control
+8.97,1,Control
+14.94,0,Control
+1.74,1,Control
+3.56,1,Control
+15.39,0,Control
+21.62,0,Control
+2.18,0,Control
+1.0,0,Control
+0.02,0,Control
+23.52,0,Control
+14.55,0,Control
+18.11,0,Control
+7.93,1,Control
+1.86,1,Control
+14.79,1,Control
+15.82,0,Control
+7.05,1,Control
+8.52,0,Control
+12.35,1,Control
+9.41,0,Control
+4.18,0,Control
+5.21,1,Control
+11.17,0,Control
+9.72,0,Control
+11.04,0,Control
+12.29,1,Control
+14.51,0,Control
+5.37,0,Control
+10.23,0,Control
+2.43,0,Control
+7.55,0,Control
+8.24,0,Control
+3.41,0,Control
+12.32,1,Control
+14.99,0,Control
+0.39,0,Control
+2.41,0,Control
+9.75,1,Control
+2.37,0,Control
+16.51,0,Control
+0.41,1,Control
+21.25,0,Control
+20.85,0,Control
+16.03,0,Control
+14.11,1,Control
+11.55,0,Control
+1.42,0,Control
+14.45,0,Control
+9.1,0,Control
+11.85,0,Control
+15.61,0,Control
+7.76,1,Control
+12.28,1,Control
+16.42,0,Control
+16.03,1,Control
+1.19,1,Control
+9.13,0,Control
+2.68,1,Control
+0.52,0,Control
+6.11,0,Control
+12.44,0,Control
+8.93,0,Control
+10.48,0,Control
+3.69,1,Control
+5.96,1,Control
+1.05,0,Control
+15.0,0,Control
+13.87,0,Control
+22.6,0,Treatment A
+20.74,0,Treatment A
+5.6,1,Treatment A
+9.58,1,Treatment A
+13.35,0,Treatment A
+5.15,0,Treatment A
+4.21,0,Treatment A
+16.78,0,Treatment A
+8.43,0,Treatment A
+2.2,0,Treatment A
+1.64,0,Treatment A
+3.06,0,Treatment A
+5.39,1,Treatment A
+1.07,0,Treatment A
+18.52,0,Treatment A
+0.1,0,Treatment A
+0.25,1,Treatment A
+20.93,0,Treatment A
+18.85,1,Treatment A
+14.02,0,Treatment A
+5.41,0,Treatment A
+1.14,0,Treatment A
+9.27,0,Treatment A
+3.69,1,Treatment A
+12.51,1,Treatment A
+19.59,0,Treatment A
+16.26,0,Treatment A
+2.5,1,Treatment A
+18.26,0,Treatment A
+4.22,0,Treatment A
+5.29,0,Treatment A
+7.12,0,Treatment A
+6.38,0,Treatment A
+3.22,0,Treatment A
+19.05,0,Treatment A
+7.16,0,Treatment A
+12.14,0,Treatment A
+22.69,0,Treatment A
+7.09,0,Treatment A
+11.64,1,Treatment A
+12.26,0,Treatment A
+0.47,1,Treatment A
+3.12,1,Treatment A
+2.2,1,Treatment A
+5.67,0,Treatment A
+22.38,0,Treatment A
+20.38,0,Treatment A
+12.19,0,Treatment A
+1.77,1,Treatment A
+0.25,0,Treatment A
+11.59,1,Treatment A
+5.66,0,Treatment A
+12.22,0,Treatment A
+12.98,1,Treatment A
+19.31,0,Treatment A
+19.1,0,Treatment A
+15.33,0,Treatment A
+7.43,0,Treatment A
+20.21,0,Treatment A
+7.04,0,Treatment A
+19.9,1,Treatment A
+6.55,0,Treatment A
+9.75,0,Treatment A
+9.14,0,Treatment A
+16.68,0,Treatment A
+15.66,0,Treatment A
+5.62,0,Treatment A
+7.44,0,Treatment A
+17.69,0,Treatment A
+1.8,0,Treatment A
+21.65,0,Treatment A
+21.21,0,Treatment A
+0.43,0,Treatment A
+18.42,0,Treatment A
+0.09,0,Treatment A
+7.38,0,Treatment A
+6.39,0,Treatment A
+1.58,1,Treatment A
+3.42,0,Treatment A
+0.42,1,Treatment A
+17.54,0,Treatment A
+0.73,0,Treatment A
+6.66,0,Treatment A
+23.99,0,Treatment A
+10.63,1,Treatment A
+15.7,0,Treatment A
+10.34,0,Treatment A
+17.78,0,Treatment A
+2.05,1,Treatment A
+1.75,0,Treatment A
+0.44,1,Treatment A
+15.62,0,Treatment A
+13.87,0,Treatment A
+12.45,0,Treatment A
+11.72,1,Treatment A
+0.1,0,Treatment A
+9.43,0,Treatment A
+3.65,0,Treatment A
+9.18,0,Treatment A
+8.49,0,Treatment A
+1.11,0,Treatment A
+0.57,1,Treatment A
+18.41,0,Treatment A
+9.73,0,Treatment A
+21.83,0,Treatment A
+23.89,0,Treatment A
+3.14,1,Treatment A
+12.39,1,Treatment A
+13.4,0,Treatment A
+17.68,0,Treatment A
+0.19,0,Treatment A
+2.81,0,Treatment A
+1.01,0,Treatment A
+19.48,0,Treatment A
+3.6,0,Treatment A
+0.52,1,Treatment A
+14.43,0,Treatment A
+23.91,0,Treatment A
+17.37,0,Treatment A
+2.1,0,Treatment A
+8.96,1,Treatment A
+4.13,0,Treatment A
+1.93,0,Treatment A
+14.34,0,Treatment A
+8.58,0,Treatment A
+10.05,1,Treatment A
+1.81,1,Treatment A
+2.62,0,Treatment A
+0.13,0,Treatment A
+1.75,1,Treatment A
+8.46,0,Treatment A
+1.6,0,Treatment A
+8.9,0,Treatment A
+8.57,1,Treatment A
+10.84,1,Treatment A
+6.89,0,Treatment A
+6.53,0,Treatment A
+3.7,1,Treatment A
+9.21,0,Treatment A
+3.9,1,Treatment A
+5.78,0,Treatment A
+8.41,0,Treatment A
+1.58,1,Treatment A
+13.31,0,Treatment A
+9.44,0,Treatment A
+4.49,1,Treatment A
+14.53,0,Treatment A
+9.7,0,Treatment A
+7.72,0,Treatment A
+15.37,0,Treatment A
+14.12,0,Treatment A
+5.11,0,Treatment A
+10.15,1,Treatment A
+1.32,1,Treatment A
+14.63,0,Treatment A
+14.6,0,Treatment A
+7.01,0,Treatment A
+9.55,0,Treatment A
+5.34,1,Treatment A
+5.02,1,Treatment A
+20.6,1,Treatment A
+6.33,1,Treatment A
+0.91,1,Treatment A
+5.23,1,Treatment A
+8.39,0,Treatment A
+1.97,1,Treatment A
+18.29,0,Treatment A
+0.34,0,Treatment A
+3.75,0,Treatment A
+16.42,0,Treatment A
+17.77,1,Treatment A
+2.63,0,Treatment A
+13.51,0,Treatment A
+13.55,0,Treatment A
+9.77,0,Treatment A
+13.2,0,Treatment A
+1.23,0,Treatment A
+1.53,1,Treatment A
+4.14,0,Treatment A
+14.76,0,Treatment A
+13.23,0,Treatment A
+0.08,0,Treatment A
+5.24,1,Treatment A
+1.45,1,Treatment A
+5.33,0,Treatment A
+11.91,0,Treatment A
+14.67,0,Treatment A
+22.76,0,Treatment A
+17.5,1,Treatment A
+2.29,1,Treatment A
+17.72,1,Treatment A
+8.48,0,Treatment A
+7.74,0,Treatment A
+3.09,1,Treatment A
+9.13,0,Treatment A
+10.14,1,Treatment A
+12.45,0,Treatment A
+8.48,0,Treatment A
+18.41,0,Treatment A
+5.42,1,Treatment A
+12.98,0,Treatment A
+8.45,0,Treatment A
+4.29,1,Treatment A
+4.52,0,Treatment A
+0.18,1,Treatment A
+6.78,0,Treatment A
+4.54,0,Treatment A
+1.27,1,Treatment A
+2.84,0,Treatment A
+7.16,1,Treatment A
+20.73,0,Treatment A
+17.69,0,Treatment A
+15.24,0,Treatment A
+1.75,0,Treatment A
+2.11,0,Treatment A
+19.73,0,Treatment A
+18.88,0,Treatment A
+3.46,0,Treatment A
+10.41,0,Treatment B
+20.19,0,Treatment B
+14.08,0,Treatment B
+18.52,1,Treatment B
+18.04,1,Treatment B
+4.59,0,Treatment B
+0.73,1,Treatment B
+0.19,0,Treatment B
+23.4,0,Treatment B
+6.3,0,Treatment B
+0.72,1,Treatment B
+7.86,0,Treatment B
+22.63,0,Treatment B
+15.85,0,Treatment B
+6.91,0,Treatment B
+6.72,1,Treatment B
+19.97,0,Treatment B
+1.93,0,Treatment B
+5.33,1,Treatment B
+17.95,0,Treatment B
+7.37,1,Treatment B
+14.81,0,Treatment B
+19.23,0,Treatment B
+3.24,0,Treatment B
+22.8,0,Treatment B
+5.56,0,Treatment B
+12.7,1,Treatment B
+16.05,0,Treatment B
+4.97,0,Treatment B
+2.7,0,Treatment B
+18.37,0,Treatment B
+9.86,0,Treatment B
+16.03,0,Treatment B
+1.29,0,Treatment B
+9.9,1,Treatment B
+5.58,1,Treatment B
+5.55,1,Treatment B
+6.45,0,Treatment B
+1.12,0,Treatment B
+6.75,0,Treatment B
+9.56,0,Treatment B
+5.81,0,Treatment B
+0.81,0,Treatment B
+2.78,0,Treatment B
+15.08,0,Treatment B
+6.55,0,Treatment B
+20.17,0,Treatment B
+3.78,1,Treatment B
+3.72,0,Treatment B
+9.32,0,Treatment B
+15.13,0,Treatment B
+20.62,0,Treatment B
+17.84,0,Treatment B
+1.58,1,Treatment B
+8.39,0,Treatment B
+9.16,1,Treatment B
+2.61,1,Treatment B
+4.89,1,Treatment B
+14.37,0,Treatment B
+19.09,0,Treatment B
+2.49,1,Treatment B
+9.27,0,Treatment B
+6.74,1,Treatment B
+19.62,0,Treatment B
+8.2,1,Treatment B
+13.89,0,Treatment B
+0.18,0,Treatment B
+12.18,0,Treatment B
+9.52,0,Treatment B
+6.1,1,Treatment B
+4.37,0,Treatment B
+6.47,1,Treatment B
+23.91,0,Treatment B
+15.87,0,Treatment B
+6.48,0,Treatment B
+10.36,0,Treatment B
+6.64,1,Treatment B
+18.21,0,Treatment B
+21.01,0,Treatment B
+3.46,1,Treatment B
+22.35,0,Treatment B
+22.01,0,Treatment B
+3.14,1,Treatment B
+21.22,0,Treatment B
+13.94,0,Treatment B
+0.0,0,Treatment B
+11.93,0,Treatment B
+11.85,0,Treatment B
+1.75,0,Treatment B
+7.56,0,Treatment B
+3.1,1,Treatment B
+15.94,0,Treatment B
+1.02,1,Treatment B
+0.43,0,Treatment B
+14.64,1,Treatment B
+7.94,0,Treatment B
+9.95,0,Treatment B
+14.41,0,Treatment B
+23.09,0,Treatment B
+8.56,0,Treatment B
+4.98,1,Treatment B
+13.13,0,Treatment B
+5.24,0,Treatment B
+2.9,0,Treatment B
+12.31,0,Treatment B
+22.97,0,Treatment B
+11.53,0,Treatment B
+9.28,0,Treatment B
+2.09,0,Treatment B
+13.53,0,Treatment B
+12.01,0,Treatment B
+5.7,1,Treatment B
+17.97,1,Treatment B
+5.5,0,Treatment B
+19.56,0,Treatment B
+5.3,1,Treatment B
+2.06,0,Treatment B
+15.48,1,Treatment B
+5.32,0,Treatment B
+6.57,1,Treatment B
+8.66,0,Treatment B
+10.1,1,Treatment B
+12.98,0,Treatment B
+7.84,1,Treatment B
+22.08,0,Treatment B
+6.31,0,Treatment B
+1.53,1,Treatment B
+6.29,1,Treatment B
+6.19,1,Treatment B
+18.75,0,Treatment B
+13.76,0,Treatment B
+3.39,1,Treatment B
+0.46,1,Treatment B
+12.51,0,Treatment B
+4.3,0,Treatment B
+6.39,0,Treatment B
+22.9,0,Treatment B
+14.39,1,Treatment B
+11.42,0,Treatment B
+19.15,0,Treatment B
+21.7,0,Treatment B
+13.56,0,Treatment B
+19.32,0,Treatment B
+5.6,0,Treatment B
+5.18,0,Treatment B
+0.49,0,Treatment B
+4.95,0,Treatment B
+17.64,1,Treatment B
+14.56,0,Treatment B
+18.98,0,Treatment B
+12.04,0,Treatment B
+8.61,0,Treatment B
+2.73,0,Treatment B
+9.39,0,Treatment B
+21.01,0,Treatment B
+9.71,0,Treatment B
+13.55,0,Treatment B
+14.89,1,Treatment B
+15.43,0,Treatment B
+14.21,0,Treatment B
+22.37,0,Treatment B
+7.65,0,Treatment B
+10.79,1,Treatment B
+20.75,0,Treatment B
+12.64,1,Treatment B
+9.44,0,Treatment B
+2.83,0,Treatment B
+9.39,0,Treatment B
+2.35,1,Treatment B
+1.11,1,Treatment B
+11.62,0,Treatment B
+18.91,1,Treatment B
+9.03,0,Treatment B
+7.54,0,Treatment B
+6.71,0,Treatment B
+0.75,0,Treatment B
+3.57,0,Treatment B
+5.5,0,Treatment B
+20.55,0,Treatment B
+18.47,0,Treatment B
+13.85,1,Treatment B
+4.06,0,Treatment B
+23.51,0,Treatment B
+22.98,0,Treatment B
+15.76,0,Treatment B
+19.68,1,Treatment B
+18.75,0,Treatment B
+3.05,0,Treatment B
+13.69,0,Treatment B
+7.26,0,Treatment B
+7.68,0,Treatment B
+17.51,0,Treatment B
+15.05,0,Treatment B
+13.42,0,Treatment B
+23.86,0,Treatment B
+6.28,0,Treatment B
+20.98,0,Treatment B
+16.55,0,Treatment B
+0.67,0,Treatment B
+11.32,0,Treatment B
+3.67,0,Treatment B
+2.86,0,Treatment B
+16.63,0,Treatment B
+19.64,1,Treatment B
+16.31,0,Treatment B
+4.21,1,Treatment B
+1.08,0,Treatment B
+3.9,1,Treatment B
+4.67,0,Treatment B
+19.81,0,Treatment B
+8.37,0,Treatment B
+21.63,0,Treatment B
+2.95,0,Treatment B
+1.49,0,Treatment B
