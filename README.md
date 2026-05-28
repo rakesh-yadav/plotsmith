@@ -1,6 +1,6 @@
 # PlotSmith
 
-**A Claude Code sub-agent that makes plots your CFO will actually read.**
+**A Claude Code sub-agent that makes plots your VP will actually read.**
 
 Ask Claude (or any LLM) to "plot this data" and you get back something
 technically correct and visually mediocre: matplotlib defaults, rainbow
