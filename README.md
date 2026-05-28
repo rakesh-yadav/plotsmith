@@ -1,13 +1,15 @@
 # PlotSmith
 
-**Make plots your CFO will actually read.**
+**A Claude Code sub-agent that makes plots your CFO will actually read.**
 
-Ask any LLM to "plot this data" and you get back something technically
-correct and visually mediocre: matplotlib defaults, rainbow palettes,
-"Revenue by Month" titles, legends sitting on the data, 30% of the canvas
-wasted on whitespace. Then you spend the next hour fixing it.
+Ask Claude (or any LLM) to "plot this data" and you get back something
+technically correct and visually mediocre: matplotlib defaults, rainbow
+palettes, "Revenue by Month" titles, legends sitting on the data, 30% of
+the canvas wasted on whitespace. Then you spend the next hour fixing it.
 
-PlotSmith fixes that on the first render.
+PlotSmith — a Markdown agent definition for [Claude
+Code](https://docs.claude.com/en/docs/claude-code/overview) — fixes that
+on the first render.
 
 ![Correlation heatmap — baseline vs PlotSmith](docs/compare_corr.png)
 
